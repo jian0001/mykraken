@@ -1,1 +1,1 @@
-mykraken
+print("hello")
